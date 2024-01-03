@@ -1,4 +1,4 @@
-![image](https://github.com/Rithikachezhian/ODD2023-WT-Ex-07-CSS/assets/145742406/e7c8e581-f4be-4bcc-84d0-f3b2b1e8bc7d)# Ex-07-CSS
+## Ex-07-CSS
 ## AIM:
 (i) Using CSS media queries, modify the webpage's color scheme with the following requirements: Default Color Scheme: Background color: Light gray (#f4f4f4) Text color: Dark gray (#333) Link color: Blue (#007bff) Small Screen Adaptation (Max-width: 600px): Change the background color to dark gray (#333) Change the text color to light gray (#f4f4f4) Change the link color to light green (#28a745) Dark Mode Preference: If the user has set their device to dark mode, override the above styles with the following: Background color: Black (#000) Text color: White (#fff) Link color: Cyan (#17a2b8) Deliverable: Write the CSS code that implements the above requirements. Your code should include the base styles and the appropriate media queries for small screens and dark mode preference.
 
@@ -80,24 +80,24 @@ color: #17a2b8;
 ![Screenshot 2024-01-03 235108](https://github.com/Rithikachezhian/ODD2023-WT-Ex-07-CSS/assets/145742406/20cbaa0a-cf31-4fc3-9245-0f1c8a844457)
 
 
-EX-07(ii)-CSS
-AIM:
+## EX-07(ii)-CSS
+## AIM:
 To use a media query in CSS to apply different styles to a webpage for mobile devices (with widths less than 600px) and desktop devices (with widths greater than or equal to 600px)? Provide an example CSS snippet to demonstrate your answer.
 
-DESIGN STEPS :EX-7(ii)
-Step 1 : Create HTML Structure
+## DESIGN STEPS :EX-7(ii)
+## Step 1 : Create HTML Structure
 Create the HTML code with root element.
 
-Step 2 :Define Default Styles
+## Step 2 :Define Default Styles
 Set the default styles for your webpage that will be applied to all devices.
 
-Step 3 : Apply Media Query for Mobile Devices (Max-width: 600px)
+## Step 3 : Apply Media Query for Mobile Devices (Max-width: 600px)
 Use a media query to adjust styles as needed for a mobile-friendly layout.
 
-Step 4 : Apply Media Query for Desktop Devices (Min-width: 601px)
+## Step 4 : Apply Media Query for Desktop Devices (Min-width: 601px)
 Use another media query to adjust styles for a larger screen.
 
-Step 5 : End the code
+## Step 5 : End the code
 End the html code by closing all the open tages.
 
 ## CODE:7(ii)
@@ -375,7 +375,7 @@ set a colour for light theme
 ## STEP6:
 enter the required details and links in between the body tag
 
-# step7:
+## step7:
 run this code in both light and dark theme
 
 ## CODE:7(Vi)
